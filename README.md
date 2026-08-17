@@ -171,8 +171,8 @@ will ensure that we get fewer bit errors.
 
 ![Another histogram of the first 64 bits.](screenshots/50-histogram2.png)
 
-Once you've set the first sixty-four bits, click View and ASCII
-Preview to see them.  Ain't that nifty?
+Once you've set the first sixty-four bits, click View and 
+Bits to see them.  Ain't that nifty?
 
 ```
 11101011
