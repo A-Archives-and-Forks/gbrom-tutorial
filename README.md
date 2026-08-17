@@ -380,10 +380,9 @@ settings to the decoder, updating the other views to match.
 
 ![Graphical solution](screenshots/solver.png)
 
-View/HexPreview will show the decoding live in hexadecimal.  After
-selecting some bytes, you can also highlight them with
-View/HighlightHexSelection to see where those bits are located in your
-project file.
+View/Hex will show the decoding live in hexadecimal.  After selecting
+some bytes, you can also highlight them with the Show Selected Bytes
+button to see where those bits are located in your project file.
 
 ![Screenshot of highlighted bytes in the GameBoy view.](screenshots/hexview.png)
 
